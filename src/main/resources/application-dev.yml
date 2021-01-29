@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: root
+    password: dss006007
+    url: jdbc:mysql://47.94.102.73:30202/connect_api_db?autoReconnect=true&failOverReadOnly=false&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    driver-class-name: com.mysql.cj.jdbc.Driver

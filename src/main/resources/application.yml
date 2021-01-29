@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: rele
+
+p2p-api:
+  udp:
+    port: 9202
+    message-max-length: 2048
+    message-delimiter: 0
